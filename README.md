@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryan!</h1>
+<img align="center" src="https://github.com/bald06/bald06/blob/main/4Snj.gif" height="30" width="40"/>
 <h3 align="center">I'm frontend developer and student of engeenering from Mexico!</h3>
 
 - 🔭 I’m currently working at **Enterprise Telecom**
@@ -14,7 +15,7 @@
 <a href="https://linkedin.com/in/bryan-lepe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-lepe" height="30" width="40" /></a>
 </p>
 
-<img align="center" src="https://github.com/bald06/bald06/blob/main/4Snj.gif" height="30" width="40" />
+
 
 
 <h3 align="left">Languages and Tools:</h3>
