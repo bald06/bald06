@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm frontend developer and student of engeenering from Mexico!</h3>
 
-- 🔭 I’m currently working at **Enterprise Telecom**
+- 🔭 I’m currently working at **Urrea Herramientas Profesionales**
 
 - 🌱 I’m currently learning **React, Android, TypeScript**
 
